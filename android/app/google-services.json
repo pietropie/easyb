@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299617763735",
+    "project_id": "easyb-47715",
+    "storage_bucket": "easyb-47715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299617763735:android:f8b8a62ebd87da06abc4d2",
+        "android_client_info": {
+          "package_name": "com.flutterflow.easyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299617763735-0hjnprcut3u8n9df7k7uif8qluadjaal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZGizQLsbThz8nQpnci9q0O9cJ_6x-cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299617763735-0hjnprcut3u8n9df7k7uif8qluadjaal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">easyb</string>
+    <string name="facebook_app_id">487847019151448</string>
+               <string name="fb_login_protocol_scheme">fb487847019151448</string>
+</resources>
